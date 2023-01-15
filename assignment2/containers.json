@@ -1,0 +1,9 @@
+{
+    "Description": "ubuntu OVA task 2",
+    "Format": "ova",
+    "UserBucket":
+    {
+        "S3Bucket": "migration-assignment-2023",
+        "S3Key": "Ubuntu-server.ova"
+    }
+}
